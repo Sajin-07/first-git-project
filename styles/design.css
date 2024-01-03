@@ -1,6 +1,8 @@
 div{
+    text-align: center;
     background-color: aquamarine;
     padding: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    box-shadow: 10px 10px 20px blueviolet;
+    box-shadow: 10px 10px 20px blue;
+    margin: 80px;
 }
